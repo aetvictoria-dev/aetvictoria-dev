@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Alfred</h1>
 <h3 align="center">Developer blending backend logic and intuitive UI to solve human-centered problems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aetvictoria-dev" alt="aetvictoria-dev" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aetvictoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aetvictoria" height="30" width="40" /></a>
